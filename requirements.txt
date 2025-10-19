@@ -1,0 +1,5 @@
+requests==2.31.0
+opencv-python==4.8.1.78
+python-nmap==0.7.1
+urllib3==1.26.16
+pyrtsp==0.5.0
